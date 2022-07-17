@@ -1,6 +1,6 @@
 # C#-101
 
-# Değişkenler ve Veri Tiplerleri
+# Değişkenler ve Veri Tipleri
 
 ## Objective
 
