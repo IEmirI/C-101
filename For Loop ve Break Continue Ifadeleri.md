@@ -42,3 +42,5 @@
  ```
 ## Explanation
 ### The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of N=6.
+
+## [Patika.dev]([https://app.patika.dev/courses/csharp-101/1-if-else-yapisi-ve-ternary-if](https://app.patika.dev/courses/csharp-101/1-for-dongusu-break-continue))
