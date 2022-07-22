@@ -22,7 +22,7 @@
 ### A single integer, N, denoting the size of the staircase.
 ## Constraints
 ```
-0 < N <= 10.
+0 < N <= 100.
 ```
 ## Output Format
 ### Print a staircase of size N using # symbols and spaces.
